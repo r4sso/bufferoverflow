@@ -3,7 +3,7 @@ Me studying about bufferoverflow. (WIP)
 
 
 ## Resources
-
+books
 
 ## Materials
 Tools needed
